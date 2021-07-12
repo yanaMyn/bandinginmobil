@@ -1,0 +1,5 @@
+baseURL = "www.bandinginmobil.com"
+languageCode = "en-us"
+title = "Bandingin Mobil"
+theme = "ananke"
+themesDir = "./themes"
