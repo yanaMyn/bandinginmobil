@@ -1,5 +1,20 @@
-baseURL = "www.bandinginmobil.com"
+baseURL = ""
 languageCode = "en-us"
 title = "Bandingin Mobil"
-theme = "ananke"
-themesDir = "./themes"
+theme = "gruvhugo"
+defaultExtension= "html"
+
+metaDataFormat= "yaml"
+
+[params.main]
+  enabled = true
+  enableKatex = true
+  metaKeywords = "fast, hugo, theme, minimal, gruvbox"
+  headerTitle = "Bandingin Mobil"
+  copyright = "Developed with 🤍 in Bandung"
+  name = "Yana"
+  img = "img/BANDINGIN_MOBIL_01.jpg"
+  icon = "img/logo.png"
+  quote = ""
+  description= "Comming soon :)"
+  licenseUrl = ""
